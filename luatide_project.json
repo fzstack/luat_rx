@@ -1,0 +1,30 @@
+{
+	"version": "2.4",
+	"projectType": "pure",
+	"corePath": "C:\\Users\\Administrator\\AppData\\Roaming\\LuatIDE\\LuatideCore\\Air72XUX_CORE\\LuatOS-Air_V4003_RDA8910_TTS_NOLVGL_FLOAT.pac",
+	"libPath": "C:\\Users\\Administrator\\AppData\\Roaming\\LuatIDE\\LuatideLib\\Air72XUX_LIB\\V2.4.3\\lib",
+	"moduleModel": "air72XUX/air82XUX",
+	"appFile": [
+		"cntr\\stack.lua",
+		"ioc\\ioc.lua",
+		"luatide_project.json",
+		"main.lua",
+		"rx\\rx.lua",
+		"rx\\rxBoundContext.lua",
+		"rx\\rxComputed.lua",
+		"rx\\rxContext.lua",
+		"rx\\rxState.lua",
+		"test\\testIoc.lua",
+		"test\\testRx.lua",
+		"utilities\\lang.lua",
+		"utilities\\middleclass.lua",
+		"utilities\\test.lua",
+		"cntr",
+		"ioc",
+		"rx",
+		"test",
+		"utilities"
+	],
+	"modulePort": "",
+	"ignore": []
+}
